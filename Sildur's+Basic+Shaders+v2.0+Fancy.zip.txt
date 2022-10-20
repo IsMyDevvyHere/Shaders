@@ -1,0 +1,2 @@
+#Sun Oct 16 10:58:20 CEST 2022
+Waving_Entities=false
